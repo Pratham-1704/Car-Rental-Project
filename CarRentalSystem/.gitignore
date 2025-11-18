@@ -1,0 +1,37 @@
+# Visual Studio / .NET Framework
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# IIS / deployment
+publish/
+*.Publish.xml
+
+# Rider/IDE
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# App data / DB / secrets
+App_Data/
+Web.config
+Web.Debug.config
+Web.Release.config
+
+# Roslyn caches
+**/roslyn/
+
+# Logs and temp
+*.log
+*.tmp
